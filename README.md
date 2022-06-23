@@ -61,6 +61,10 @@ Try this one and see how it evolves into its next generation.
         <img src="Patterns/98px-Game_of_life_beehive.svg.png" alt="Caption text">
         <figcaption>Beehive</figcaption>
     </figure>
+    <figure>
+        <img src="Patterns/Game_of_life_flower.svg.png" alt="Caption text">
+        <figcaption>Tub</figcaption>
+    </figure>
 
 - Oscillators
     <figure>
@@ -71,6 +75,10 @@ Try this one and see how it evolves into its next generation.
         <img src="Patterns/Game_of_life_pulsar.gif" alt="Caption text">
         <figcaption>Pulsar (period 3)</figcaption>
     </figure>
+    <figure>
+        <img src="Patterns/Game_of_life_beacon.gif" alt="Caption text">
+        <figcaption>Beacon</figcaption>
+    </figure>
 
 - Spaceships
     <figure>
@@ -80,6 +88,10 @@ Try this one and see how it evolves into its next generation.
     <figure>
         <img src="Patterns/Game_of_life_animated_LWSS.gif" alt="Caption text">
         <figcaption>Light Weight Spaceship</figcaption>
+    </figure>
+    <figure>
+        <img src="Patterns/Animated_Hwss.gif" alt="Caption text">
+        <figcaption>Heavy Weight Spaceship</figcaption>
     </figure>
 
 ## Tools Used
